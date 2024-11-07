@@ -5,7 +5,7 @@ import { zoom, zoomIdentity } from "d3-zoom";
 import { flextree } from 'd3-flextree';
 import { linkHorizontal } from 'd3-shape';
 
-const d3 = {
+export const d3 = {
     selection,
     select,
     max,
