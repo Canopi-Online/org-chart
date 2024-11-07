@@ -21,12 +21,12 @@
   },
   "jsnext:main": "index",
   "bugs": {
-    "url": "https://github.com/bumbeishvili/d3-organization-chart/issues"
+    "url": "https://github.com/Canopi-Online/org-chart.git/issues"
   },
-  "homepage": "https://github.com/bumbeishvili/d3-organization-chart#readme",
+  "homepage": "https://github.com/Canopi-Online/org-chart.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bumbeishvili/d3-organization-chart.git"
+    "url": "https://github.com/Canopi-Online/org-chart.git"
   },
   "scripts": {
     "start": "nodemon ",
